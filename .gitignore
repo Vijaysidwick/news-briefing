@@ -1,0 +1,7 @@
+# composer vendor dir
+/venv
+
+# pycache dir
+/__pycache__
+
+zander_skill.py

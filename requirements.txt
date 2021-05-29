@@ -1,0 +1,8 @@
+Flask==0.12.2
+gunicorn==19.7.1
+itsdangerous>=0.2
+Jinja2==2.9.6
+MarkupSafe==1.0
+Werkzeug==0.12.2
+boto3 == 1.5.8
+APScheduler==3.0.0

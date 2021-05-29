@@ -1,0 +1,16 @@
+body {
+	margin: 0px;
+}
+.container {
+    background: #eee;
+    padding: 25px 10px;
+}
+.container.home a {
+    padding: 10px;
+    background: #dddd;
+    text-decoration: none;
+}
+.container.home a:hover {
+    background: #ddd;
+    text-decoration: none;
+}
